@@ -63,7 +63,7 @@ spunti.
 
 qui ci vuole un link al video andato in onda su rainews24
 
-## [ ] 2020: Twitter?
+# [ ] 2020: Twitter?
 
 Progetti futuri e in corso.
 
