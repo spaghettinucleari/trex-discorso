@@ -28,6 +28,9 @@ tecnologici e legali che tengono oscuro il suo funzionamento, fa danno sociale. 
 l'algoritmo, per liberarci). Mi sembra carina, ma magari è più che altro uno spunto narrativo per scrivere un articolo
 su Trex, me la segno per non scordarla e anche per sapere la vostra.
 
+[v] per me quel titolo era un po' forte, mi chiedevo se anche il suo senso non fosse estromettibile e reso opzionale,
+in un box di diverso colore? 
+
 # [ ] Abbiamo scoperto che l'acquisizione dei dati è il momento più sensibile (delicato?).
 
 questa parte (il momentum? tempismo?) mi sembra importante, ma non è inserita bene
