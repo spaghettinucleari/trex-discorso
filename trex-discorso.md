@@ -3,10 +3,10 @@
 # Introduzione
 
 La connessione ininterrotta ad internet che sperimentiamo in questi anni è una novità, la rete è un formidabile
-strumento di raccolta dati e scollegarsi non è un'opzione praticabile a meno di non rinunciare a quasi ogni servizio
-possibile, dalla relazioni con le proprie cerchie, al noleggio di un'automobile o la gestione di un conto in banca. La
-recente pandemia globale ha introdotto il distanziamento sociale, aumentando di frequenza e importanza le pratiche di
-connessione remota come la teledidattica, il telelavoro e gli acquisti online.
+strumento di raccolta dati; scollegarsi non è un'opzione praticabile, a meno di non rinunciare a *quasi* ogni servizio
+possibile, dalla relazioni con le proprie cerchie, al noleggio di un'automobile o la gestione di un conto in
+banca. Inoltre la recente pandemia globale ha imposto l'introduzione del distanziamento sociale, aumentando di frequenza
+e importanza le pratiche di connessione remota come la teledidattica, il telelavoro e gli acquisti online.
 
 Ad ogni connessione gli individui lasciano dietro di sé un grande numero di dati e metadati, che vengono utilizzati come
 merce dalle ditte private che li raccolgono tramite servizi "gratuiti", come ad esempio i social network. Questi dati
@@ -99,7 +99,7 @@ conoscere il funzionamento degli algoritmi proprietari, il quale è un requisito
 moderna, perché Internet può diventare un mezzo di oppressione. La causa della libertà nel secolo 21 è inestricabilmente
 connessa alla resistenza alla sorveglianza elettronica.
 
-## Alcune posizioni citabili:
+# Posizioni citabili: spunti, slogan e le spalle dei giganti.
 
 "Non si può mangiare un confetto pretendendo di sentire – solo perché si ha una vasta cultura e un forte controllo delle
 proprie sensazioni – sapore di sale. La chimica non sbaglia mai. Siccome esiste anche una chimica delle emozioni, e uno
@@ -141,7 +141,7 @@ Stefano Rodotà
 Facebook ciberanno gli utenti di ciò che vogliono che veda, il computer è diventato uno specchio che riflette i tuoi
 interessi e rinforza i tuoi pregiudizi".  Eli Pariser, Filter bubble, 2011.
 
-# Gli algoritmi di personalizzazione
+# gli Algoritmi di personalizzazione
 
 Gli algoritmi di personalizzazione sono nati perché le compagnie volevano rendere l'esperienza online meno noiosa, piú
 efficiente e soddisfacente. Gli algoritmi sono serviti ad evitare lo spam. Oggi regolano il discorso pubblico
@@ -171,7 +171,7 @@ Pariser, 2011.
 
 [d] link al paragrafo su Cambridge analytica -oppure- discorso sui mutui, le assicurazioni vita.
 
-## Intermezzo: l'Algoritmo Captivo
+# Intermezzo: l'Algoritmo Captivo
 
 [d] Qui mi domando se partire con una cosa che per quanto mi piaccia, potrebbe non c'entrare nel contesto di questo
 documento, ma potrebbe essere un articolo a parte. Mi riferisco alla considerazione della parola "cattivo" nel suo
@@ -322,7 +322,6 @@ l'esperienza e il lavoro di Trex.
 
 Offriamo test affidabili, in un panorama dove anche i test inaffidabili vengono comunque ripresi e utilizzati e i
 racconti aneddotici rischiano di essere il riferimento più ricorrente.
-
 
 # Storia di Trex
 
@@ -501,9 +500,9 @@ utenti, ad esempio: cercare, inserire e togliere prodotti dal carrello. Infine a
 risultati per gli utenti sono stati differenti, ne abbiamo ricavato che le azioni sul sito web, chiamate da Amazon
 Clickstream, vengono considerate dall'algoritmo di Amazon per personalizzare le risposte.
 
-## 2020: Twitter?
+## 2020: le Elezioni presidenziali americane
 
-Progetti futuri e in corso.
+Descrizione
 
 # Attualità - cronaca - fatti
 
@@ -540,9 +539,9 @@ Appunti vari che mi capisco da me: (algoritmo captivo, vari momenti, metametodo,
 
 # Riferimenti e Corrispondenze
 
-## In Musica
+## In Musica (secondo intermezzo)
 
-### Schermo splendente - Ustmamò
+* [Schermo splendente - Ustmamò](https://www.youtube.com/watch?v=tZk-mEiAYoY)
 
 Schermo splendente, svanire non puoi, bianco candore, buio grigiore, luce perenne non può sbiadire. La tua saggezza non
 prevede limite.  
@@ -552,75 +551,83 @@ memoria che non vede limite.
 Schermo delle mie brame, condottiero virtuale, luce di verità.  
 Prendi, trasforma, dissolvi, scomponi, inventa di nuovo, progetta, disponi.  
 Luce dei miei occhi, specchio degli specchi. Mente che riflette, ripetutamente.  
-<https://www.youtube.com/watch?v=tZk-mEiAYoY>
 
-### Got my mind set on you - James Ray sings George Harrison
+* [Got my mind set on you - James Ray sings George Harrison](https://www.youtube.com/watch?v=A1E6xvM7PeA)
 
 it's gonna take money, a whole lotta spending money.  
 it's gonna take plenty of money, to do it right.  
 And it's gonna take time, a whole lot of precious time.  
 It's gonna take patience and time, to do it right, child.  
-<https://www.youtube.com/watch?v=A1E6xvM7PeA>
 
 ## In Video
 
-### Hacking democracy, Michaels and Ardizzone, 2006
-<https://en.wikipedia.org/wiki/Hacking_Democracy>
+* [Hacking democracy, Michaels and Ardizzone, 2006](https://en.wikipedia.org/wiki/Hacking_Democracy)
 
-### Channel4, reportage on Cambridge Analytica, 2018
-<https://www.channel4.com/news/cambridge-analytica-revealed-trumps-election-consultants-filmed-saying-they-use-bribes-and-sex-workers-to-entrap-politicians-investigation>
+* [Channel4, reportage on Cambridge Analytica, 2018](https://www.channel4.com/news/cambridge-analytica-revealed-trumps-election-consultants-filmed-saying-they-use-bribes-and-sex-workers-to-entrap-politicians-investigation)
 
-### The Trouble with Harry (la Congiura degli innocenti), Alfred Hitchcock, 1955
-<https://en.wikipedia.org/wiki/The_Trouble_with_Harry>
+* [The Trouble with Harry (la Congiura degli innocenti), Alfred Hitchcock, 1955](https://en.wikipedia.org/wiki/The_Trouble_with_Harry)
 
 # Link
 
-Complessità dell'analisi
-https://docs.google.com/document/d/1NRF0FfH0SoNPQadlYZs6tLfpWNpJu63_I8S04QnVH7U/edit
+* Complessità dell'analisi
 
-https://policyreview.info/articles/news/personalisation-algorithms-and-elections-breaking-free-filter-bubble/1385
+<https://docs.google.com/document/d/1NRF0FfH0SoNPQadlYZs6tLfpWNpJu63_I8S04QnVH7U/edit>
 
-Vedere le cose dal punto di vista di chi osserva/subisce
-https://www.cjr.org/the_media_today/youtube-radicalization.php
+<https://policyreview.info/articles/news/personalisation-algorithms-and-elections-breaking-free-filter-bubble/1385>
 
-https://www.cnbc.com/2019/12/30/critics-slam-youtube-study-showing-no-ties-to-radicalization.html
+* Vedere le cose dal punto di vista di chi osserva/subisce
 
-Double standard
-https://twitter.com/mark_ledwich/status/1210743158184693760
+<https://www.cjr.org/the_media_today/youtube-radicalization.php>
 
-Effetti e Problema di trasparenza
-https://ffwd.medium.com/youtubes-deradicalization-argument-is-really-a-fight-about-transparency-fe27af2f3963
+<https://www.cnbc.com/2019/12/30/critics-slam-youtube-study-showing-no-ties-to-radicalization.html>
 
-Il rilascio dati è sempre incompleto
-https://eu19.tracking.exposed/page/data-activism/
+* Double standard
 
-Anche i test inaffidabili vengono ripresi
-https://twitter.com/mark_ledwich/status/1224825958131105792
+<https://twitter.com/mark_ledwich/status/1210743158184693760>
 
-Reproducibility checklist
-https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf
+* Effetti e Problema di trasparenza
 
-Le tre metodologie di trex comparate
-https://youtube.tracking.exposed/data/
+<https://ffwd.medium.com/youtubes-deradicalization-argument-is-really-a-fight-about-transparency-fe27af2f3963>
 
-Fb
+* Il rilascio dati è sempre incompleto
+
+<https://eu19.tracking.exposed/page/data-activism/>
+
+* Anche i test inaffidabili vengono ripresi
+
+<https://twitter.com/mark_ledwich/status/1224825958131105792>
+
+* Reproducibility checklist
+
+<https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf>
+
+* Le tre metodologie di trex comparate
+
+<https://youtube.tracking.exposed/data/>
+
+* Facebook
+
 <https://cdn.ttc.io/s/ourdataourselves.tacticaltech.org/ttc-influence-industry-italy.pdf>
 
-Amazon
+* Amazon
+
 <https://docs.google.com/document/d/1m8L4UAxgNZNeEMUGuHOy7e44wLYz7IUrAOevBc-5Y3k/edit>
 
 <https://docs.google.com/document/d/1VxVBTC8x4YrQjLnKrqFdEA323Oq43mnInSNM5ya2jV4/edit>
 
 <https://docs.google.com/presentation/d/1eLqvFDGJh75OeDI9eYxEl9T9-uiZ-0xiWGshzlapojs/edit#slide=id.p>
 
-alex
+* alex
+
 <https://algorithms.exposed/>
+
 August 2020 report (Note  internal report = seldom proofread.)
+
 <https://tracking.exposed/monthly/august-2020/>
 
-Data activism
-<https://eu19.tracking.exposed/page/data-activism/>
+* Data activism
 
+<https://eu19.tracking.exposed/page/data-activism/>
 
 # Note di scrittura
 
